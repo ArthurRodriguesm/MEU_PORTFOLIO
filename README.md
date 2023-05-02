@@ -19,4 +19,4 @@
 ## LinkedIn
 <a href="https://www.linkedin.com/in/arthurr-martins" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 
-- [Portfólio](https://arthurrodriguesm.github.io/MEU-PORTFOLIO/)
+- [Portfólio](https://arthurrodriguesm.github.io/MEU_PORTFOLIO/)
